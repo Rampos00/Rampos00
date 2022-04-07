@@ -6,5 +6,5 @@ Rampos00/Rampos00 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![ytanis's 42 stats](https://badge42.herokuapp.com/api/stats/ytanis?privacyEmail=true)](https://github.com/ytanis/badge42)
+
 
